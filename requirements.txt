@@ -3,4 +3,4 @@
 numpy
 pillow
 pyaudio  # mac: `brew install portaudio` 
-pyrubberband
+pyrubberbandcd 

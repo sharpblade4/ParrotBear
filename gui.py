@@ -11,8 +11,8 @@ import numpy as np
 FIXED_SQUARE_WINDOW = 768
 START_REC_MESSAGE = "Start"
 FREQ_RANGE_BY_ANIMAL = {
-    "parrot": (7, 14),
-    "bear": (-7, -14),
+    "parrot": (4, 9),
+    "bear": (-10, -16),
 }
 
 
