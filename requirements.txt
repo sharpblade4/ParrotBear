@@ -1,0 +1,6 @@
+# mac: `brew install python-tk`
+# mac: `brew install python-tk@3.12`
+numpy
+pillow
+pyaudio  # mac: `brew install portaudio` 
+pyrubberband
